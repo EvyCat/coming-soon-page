@@ -1,0 +1,37 @@
+html {
+  background-color: #fdebea;
+}
+
+span {
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #58585a;
+  text-align: center;
+}
+
+p {
+  font-family: "Cutive Mono", monospace;
+  text-align: center;
+  color: #58585a;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.flowers {
+  max-width: 20%;
+  margin-top: 2em;
+}
+
+ .icons {
+   display: inline;
+ }
+
+a {
+  font-family: "Cutive Mono", monospace;
+  text-align: center;
+  color: #58585a;
+}
+
+.icons a {
+  text-decoration: none;
+}
